@@ -1,13 +1,13 @@
 ---
-date: 2012-12-22
+date: 2012-04-05
 layout: post
 title: 你的第一篇博客
-permalink: '/2012/new-born.html'
+permalink: '/2013/first-page.html'
 categories:
 - Gor
-- Blog
 tags:
 - Gor
+
 ---
 
 感谢你使用Gor编写博客

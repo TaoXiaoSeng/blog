@@ -3,10 +3,10 @@
 
 RuhohSpec: '1.0'
 theme : twitter
-production_url : http://sample.com
+production_url : http://42.121.114.240/
 
 posts:
-  permalink: /:categories/:title/
+  permalink: /:year/:month/:day/:filename.html
   summary_lines: 20
   latest: 10
 
