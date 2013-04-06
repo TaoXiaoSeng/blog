@@ -3,23 +3,18 @@ title: 首页
 description:
 ---
 
-<h2>Gor已经为了编译成功了</h2>
-<p>
-  这段文字位于pages/index.html ,使用以下命令获取帮助或访问gor官网
-</p>
-<pre><code>$ gor help</code></pre>
 
-
-<h2>最近更新</h2>
+<h3>最近更新</h3>
 
 {{# posts_latest }}
 <div class="post">
-  <h3 class="title"><a href="{{url}}">{{title}}</a> <span class="date">{{ date }}</span></h3>
+  <!--<h4 class="title"><a href="{{url}}">{{title}}</a> <span class="date">{{ date }}</span></h3>-->
+  <h4 class="title"><a href="{{url}}">{{title}}</a></h4>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;{{description}}</p>
+  <!--{{{ summary }}}-->
 
-  {{{ summary }}}
-
-  <div class="more">
+  <!--<div class="more">
     <a href="{{url}}" class="btn">read more..</a>
-  </div>
+  </div>-->
 </div>
 {{/ posts_latest }}
