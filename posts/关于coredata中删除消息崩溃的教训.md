@@ -3,9 +3,9 @@ date: 2013-04-10
 title: 关于CoreData中删除消息崩溃的教训
 description: 关于coredata中relationship对于与删除object的影响
 categories:
-- Gor
+- ios
 tags:
-- Gor
+- core data
 
 ---
 

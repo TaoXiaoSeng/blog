@@ -4,11 +4,9 @@ layout: post
 title: 如何在XCode中以不同的颜色分级显示不同级别的log信息
 description: XCode分级显示log信息，并且以不同颜色去显示
 categories:
-- IOS
+- ios
 tags:
-- Log
-- iOS
-- XCode
+- log
 
 ---
 

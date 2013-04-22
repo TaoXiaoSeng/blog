@@ -5,10 +5,9 @@ title: 关于如何使用appledoc生成XCode能读取的文档的命令
 description: 文档生成命令
 permalink: '/2013/04/06/create-docset-used-by-xcode-the-tool-appledoc.html'
 categories:
-- appledoc
+- ios
 tags:
-- appdoc
-- docset,xcode,ios
+- docset
 
 ---
 

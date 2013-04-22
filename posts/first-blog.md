@@ -5,9 +5,9 @@ title: 你的第一篇博客
 permalink: '/2013/first-page.html'
 description: 测试页面
 categories:
-- Gor
+- gor
 tags:
-- Gor
+- gor
 
 ---
 
