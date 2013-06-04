@@ -1,7 +1,7 @@
 ---
 title: 涨姿势-NSCache
 date: '2013-05-30'
-description:
+description: cache数据，与NSMutableDictionary类似的用于不保证cache对象永远存在的一种缓存
 permalink: '/2013/05/30/about_nscache.html'
 categories:
 
