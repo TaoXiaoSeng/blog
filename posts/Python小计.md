@@ -1,3 +1,15 @@
+---
+date: 2013-12-12
+layout: post
+title: python小计
+description: python一些简单命令记录
+permalink: '/2013/12/12/record_python_tips.html'
+categories:
+- python
+tags:
+- python
+
+---
 # Python
 ## 记录
 os.walk(dir)				遍历文件夹里的文件
