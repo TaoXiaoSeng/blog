@@ -3,12 +3,13 @@
 
 RuhohSpec: '1.0'
 theme : twitter
-production_url : http://42.121.114.240/
+production_url : http://www.codesimplelife.com
 
 posts:
   permalink: /:year/:month/:day/:filename.html
   summary_lines: 20
   latest: 10
+  #imgs: 
 
 pages:
   permalink: 'pretty'
